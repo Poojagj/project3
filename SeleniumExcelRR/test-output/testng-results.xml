@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="6" passed="6" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-08-03T16:33:18 IST" name="Suite" finished-at="2023-08-03T16:33:18 IST" duration-ms="54">
+    <groups>
+    </groups>
+    <test started-at="2023-08-03T16:33:18 IST" name="Test" finished-at="2023-08-03T16:33:18 IST" duration-ms="54">
+      <class name="TestNG_Annotations.Car_Loan">
+        <test-method signature="car_loan_1()[pri:0, instance:TestNG_Annotations.Car_Loan@3e08ff24]" started-at="2023-08-03T16:33:18 IST" name="car_loan_1" finished-at="2023-08-03T16:33:18 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- car_loan_1 -->
+        <test-method signature="car_loan_2()[pri:0, instance:TestNG_Annotations.Car_Loan@3e08ff24]" started-at="2023-08-03T16:33:18 IST" name="car_loan_2" finished-at="2023-08-03T16:33:18 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- car_loan_2 -->
+        <test-method is-config="true" signature="After_Suite_Method()[pri:0, instance:TestNG_Annotations.Car_Loan@3e08ff24]" started-at="2023-08-03T16:33:18 IST" name="After_Suite_Method" finished-at="2023-08-03T16:33:18 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- After_Suite_Method -->
+      </class> <!-- TestNG_Annotations.Car_Loan -->
+      <class name="TestNG_Annotations.Personal_Loan">
+        <test-method is-config="true" signature="before_suite()[pri:0, instance:TestNG_Annotations.Personal_Loan@2b40ff9c]" started-at="2023-08-03T16:33:18 IST" name="before_suite" finished-at="2023-08-03T16:33:18 IST" duration-ms="10" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- before_suite -->
+        <test-method signature="Personal_loan_1()[pri:0, instance:TestNG_Annotations.Personal_Loan@2b40ff9c]" started-at="2023-08-03T16:33:18 IST" name="Personal_loan_1" finished-at="2023-08-03T16:33:18 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Personal_loan_1 -->
+        <test-method signature="Personal_loan_2()[pri:0, instance:TestNG_Annotations.Personal_Loan@2b40ff9c]" started-at="2023-08-03T16:33:18 IST" name="Personal_loan_2" finished-at="2023-08-03T16:33:18 IST" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Personal_loan_2 -->
+      </class> <!-- TestNG_Annotations.Personal_Loan -->
+      <class name="TestNG_Annotations.Home_Loan">
+        <test-method signature="home_loan_1()[pri:0, instance:TestNG_Annotations.Home_Loan@53fb3dab]" started-at="2023-08-03T16:33:18 IST" name="home_loan_1" finished-at="2023-08-03T16:33:18 IST" duration-ms="5" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- home_loan_1 -->
+        <test-method signature="home_loan_2()[pri:0, instance:TestNG_Annotations.Home_Loan@53fb3dab]" started-at="2023-08-03T16:33:18 IST" name="home_loan_2" finished-at="2023-08-03T16:33:18 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- home_loan_2 -->
+      </class> <!-- TestNG_Annotations.Home_Loan -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
